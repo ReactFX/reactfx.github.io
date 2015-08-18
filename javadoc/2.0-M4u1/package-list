@@ -1,0 +1,9 @@
+org.reactfx
+org.reactfx.collection
+org.reactfx.inhibeans
+org.reactfx.inhibeans.binding
+org.reactfx.inhibeans.collection
+org.reactfx.inhibeans.property
+org.reactfx.inhibeans.value
+org.reactfx.util
+org.reactfx.value
